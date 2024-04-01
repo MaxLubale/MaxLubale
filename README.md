@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxLubale
 - 👀 I’m interested in Fullstack Development.
-- 🌱 I’m currently learning Back-end development.
+- 🌱 I’m currently learning cloud development.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... lubalecliff@gmail.com ...
 
